@@ -66,6 +66,7 @@ const fetchCountryByName = (name) => {
   fetchCountryByName("turkey");
   fetchCountryByName("canada");
   fetchCountryByName("united");
+  fetchCountryByName("peru");
   fetchCountryByName("western sahara");
   fetchCountryByName("south africa");
   
